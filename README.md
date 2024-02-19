@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @INvFaker.
+# 👋 Hello everyone, I’m Raihan Nur Hanif aka @INvFaker.
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning html, css, js.
 
-<!---
-INvFaker/INvFaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+last mounth i got certificate web development from dicoding<br>
+if you want to know me more, please check [Linkedin](https://www.linkedin.com/in/raihannh25/)
